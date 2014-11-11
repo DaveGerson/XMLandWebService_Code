@@ -1,0 +1,14 @@
+<employees>
+   <employee>
+      <name>Philips</name>
+      <salary>145000</salary>
+   </employee>
+   <employee>
+      <name>Fitzgerald</name>
+      <salary>51000</salary>
+   </employee>
+   <employee>
+      <name>Reid</name>
+      <salary>91000</salary>
+   </employee>
+</employees>
